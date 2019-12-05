@@ -1,2 +1,4 @@
 # kelvinlagota.github.io
-Here's my personal web space.
+Kelvin Lagota, Ph.D.
+Home		Profile		Research		Contact me
+
