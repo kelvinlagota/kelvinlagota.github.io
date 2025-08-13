@@ -1,2 +1,2 @@
 # kelvinlagota.github.io
-Here's my personal web space!
+Here's my professional web space!
